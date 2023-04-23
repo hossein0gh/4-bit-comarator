@@ -1,0 +1,16 @@
+{C:/Users/Rose/Desktop/codes/verilog/series 2/xnor/testbench.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Rose\Desktop\codes\verilog\series 2\xnor\testbench.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Rose/Desktop/codes/verilog/series 2/comparator/four_bit_comparator.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Rose\Desktop\codes\verilog\series 2\comparator\four_bit_comparator.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module four_bit_comp
+-- Compiling module two_bit_comp
+
+Top level modules:
+	four_bit_comp
+
+} {} {}}

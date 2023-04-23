@@ -1,0 +1,90 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rose/Desktop/codes/verilog/series 2/seq_detector
+T_opt
+!s110 1682185256
+VVBmd39PHRQWad66HmoSO71
+04 9 4 work testbench fast 0
+=1-2c600c8deaee-64441c28-15f-42c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vfour_bit_comp
+Z2 !s110 1682185507
+!i10b 1
+!s100 :m9=]R;U4Yd0Sk65:B@CW3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[J<Sjjf3]i0=DE8zmo=c81
+Z4 dC:/Users/Rose/Desktop/codes/verilog/series 2/comparator
+Z5 w1682185478
+Z6 8C:\Users\Rose\Desktop\codes\verilog\series 2\comparator\four_bit_comparator.v
+Z7 FC:\Users\Rose\Desktop\codes\verilog\series 2\comparator\four_bit_comparator.v
+!i122 6
+L0 1 13
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1682185507.000000
+Z11 !s107 C:\Users\Rose\Desktop\codes\verilog\series 2\comparator\four_bit_comparator.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Rose\Desktop\codes\verilog\series 2\comparator\four_bit_comparator.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtestbench
+R2
+!i10b 1
+!s100 1[2nNBaHB_2Yg;l8[QJme3
+R3
+IofHT:5?9o^fddD?e1z]>53
+R4
+w1682185461
+8C:\Users\Rose\Desktop\codes\verilog\series 2\xnor\testbench.v
+FC:\Users\Rose\Desktop\codes\verilog\series 2\xnor\testbench.v
+!i122 7
+L0 1 42
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\Rose\Desktop\codes\verilog\series 2\xnor\testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Rose\Desktop\codes\verilog\series 2\xnor\testbench.v|
+!i113 0
+R13
+R1
+vtwo_bit_comp
+R2
+!i10b 1
+!s100 o@662jm3akZlHPW^g^K><1
+R3
+IV?KX3TTOS1gS2hkEI;MjP1
+R4
+R5
+R6
+R7
+!i122 6
+L0 15 8
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
